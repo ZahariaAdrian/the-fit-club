@@ -12,6 +12,9 @@
   grid-auto-rows: 1fr;
 }
 
+@media screen and (min-width: 440px) and (max-width: 770px) {
+}
+
 .left-r > img {
   object-fit: cover;
 }
